@@ -4,7 +4,7 @@
 
 ## Docs
 
-Visit the project at: [https://ultimarr.cloud]ultimarr.cloud
+Visit the project at: https://ultimarr.cloud
 
 > Project status: Pre-release  
 > License: AGPL-3.0
