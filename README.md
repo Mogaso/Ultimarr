@@ -1,8 +1,10 @@
 # Ultimarr
 
-**Ultimarr.cloud** – Your ultimate personal media dashboard.
+**Ultimarr** – Your ultimate personal media dashboard.
 
-ultimarr.cloud
+## Docs
+
+Visit the project at: [https://ultimarr.cloud]ultimarr.cloud
 
 > Project status: Pre-release  
 > License: AGPL-3.0
