@@ -21,7 +21,7 @@ Ultimarr aims to become a centralized, user-focused interface for managing and a
 
 This project is licensed under the **GNU AGPLv3**.  
 Forks and derivative projects must follow the license terms and publish their source.  
-**Original author credit required: _Wilko Eggen (placenord.eu)_**
+
 
 ---
 
